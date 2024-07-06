@@ -16,7 +16,7 @@ Created a counter app that allows users to count the amount of people that are i
 3. Select the `Code` button.
 4. Select and copy the `SSH` provided.
 5. `YOUR` terminal command should look like the line below.
-6. `git clone git@github.com:ZTFitru/lovestory.git`
+6. `git clone git@github.com:ZTFitru/passenger-counter-app.git`
 7. Move into the directory using `cd [dir_name]`.
 8. If using `Visual Studio Code` use the `code .` command in your terminal to run it.
 9. View the project in the browser by running open index.html in your terminal.
